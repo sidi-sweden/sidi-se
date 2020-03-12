@@ -1,10 +1,10 @@
 ---
 title: Home
 home: true
-heroText: Hero
-tagline: Some tagline
-actionText: Go To Github
-actionLink: https://github.com/bencodezen/vuepress-blog-boilerplate
+heroText: Swedish Institute for Drug Informatics (SIDI)
+tagline: Open and independent drug information and tools, accurate and reliable, for the benefit of the patients.
+actionText: Go to Drugle
+actionLink: http://drugle.info
 features:
 - 
     title: Feature 1

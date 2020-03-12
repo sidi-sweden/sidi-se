@@ -1,7 +1,7 @@
 const currentDateUTC = new Date().toUTCString()
 
 module.exports = {
-	title: 'My New VuePress Blog',
+	title: 'SIDI',
 	dest: './public',
 	themeConfig: {
 		repo: 'https://wwww.github.com',
@@ -9,12 +9,13 @@ module.exports = {
 		editLinks: true,
 		editLinkText: 'Found a bug? Help me improve this page!',
 		nav: [
-			{ text: 'Home', link: '/' }, 
+			{ text: 'Home', link: '/' },
 			{ text: 'Blog', link: '/blog/' },
 			{ text: 'Archive', link: '/archive/' },
-			{ text: 'RSS Feed', link: '/rss.xml' }
+			{ text: 'RSS Feed', link: '/rss.xml' },
+			{ text: 'About', link: '/about/' }
 		],
-		logo: '/vuepress-blog-logo.png',
+		logo: '/sidi-64x64.png',
 		docsDir: 'src',
 		pageSize: 5,
 		startPage: 0

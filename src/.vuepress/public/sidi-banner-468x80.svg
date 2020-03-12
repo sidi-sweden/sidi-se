@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="468"
+   height="80"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="banner-468x80.svg"
+   inkscape:export-filename="/home/daro/Desktop/arch/drugbank/miob/sidi/web-468x64.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2818">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5248">
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:1;"
+         offset="0"
+         id="stop5250" />
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:0;"
+         offset="1"
+         id="stop5252" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3796">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3798" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3800" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 30 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="468 : 30 : 1"
+       inkscape:persp3d-origin="234 : 20 : 1"
+       id="perspective2824" />
+    <inkscape:perspective
+       id="perspective2856"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3039"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       y2="76"
+       x2="142.5"
+       y1="43.5"
+       x1="109.5"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2965"
+       xlink:href="#linearGradient2918-4"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2918-4">
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:1;"
+         offset="0"
+         id="stop2920-3" />
+      <stop
+         style="stop-color:#ffccaa;stop-opacity:0;"
+         offset="1"
+         id="stop2922-3" />
+    </linearGradient>
+    <linearGradient
+       y2="76"
+       x2="142.5"
+       y1="43.5"
+       x1="109.5"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3060"
+       xlink:href="#linearGradient2918-4"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3796"
+       id="linearGradient3802"
+       x1="465.5"
+       y1="32.5"
+       x2="78.5"
+       y2="36.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99786554,0,0,1.0000137,0.4994687,-19.50053)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5248"
+       id="linearGradient5256"
+       x1="465.5"
+       y1="32.5"
+       x2="78.5"
+       y2="36.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99786554,0,0,1.0000137,0.4994687,-19.50053)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2918-4"
+       id="linearGradient3030"
+       gradientUnits="userSpaceOnUse"
+       x1="109.5"
+       y1="43.5"
+       x2="142.5"
+       y2="76" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5248"
+       id="linearGradient3052"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99786554,0,0,1.0000137,0.4994687,-19.50053)"
+       x1="465.5"
+       y1="32.5"
+       x2="78.5"
+       y2="36.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3796"
+       id="linearGradient3054"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99786554,0,0,1.0000137,0.4994687,-19.50053)"
+       x1="465.5"
+       y1="32.5"
+       x2="78.5"
+       y2="36.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2918-4"
+       id="linearGradient3056"
+       gradientUnits="userSpaceOnUse"
+       x1="109.5"
+       y1="43.5"
+       x2="142.5"
+       y2="76" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2918-4"
+       id="linearGradient3864"
+       gradientUnits="userSpaceOnUse"
+       x1="109.5"
+       y1="43.5"
+       x2="142.5"
+       y2="76" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3055-8-1">
+      <rect
+         style="fill:#ff00ff"
+         id="rect3057-6-0"
+         width="171.42857"
+         height="182.85715"
+         x="561.42859"
+         y="498.07651"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3055-7-8-6">
+      <rect
+         style="fill:#ff00ff"
+         id="rect3057-4-8-1"
+         width="171.42857"
+         height="182.85715"
+         x="561.42859"
+         y="498.07651"
+         ry="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="97.569231"
+     inkscape:cy="46.978111"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3046"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1176"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,20)">
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3026"
+       width="468"
+       height="58"
+       x="0.94645822"
+       y="0.086366437"
+       inkscape:export-filename="/home/daro/devel/sidi/trunk/graphics/banner-468x58.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:63.11550903px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffb380;fill-opacity:1;stroke:none;font-family:Tw Cen MT Condensed Extra Bold;-inkscape-font-specification:'Tw Cen MT Condensed Extra Bold, Bold'"
+       x="56.387909"
+       y="43.880566"
+       id="text3105"
+       transform="scale(0.99452642,1.0055037)"
+       inkscape:export-filename="/home/daro/devel/sidi/trunk/graphics/banner-360-dpi.png"
+       inkscape:export-xdpi="360.24734"
+       inkscape:export-ydpi="360.24734"><tspan
+         sodipodi:role="line"
+         id="tspan3107"
+         x="56.387909"
+         y="43.880566"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffb380;font-family:Tw Cen MT Condensed Extra Bold;-inkscape-font-specification:'Tw Cen MT Condensed Extra Bold, Bold'">SIDI</tspan></text>
+    <g
+       id="g3046"
+       transform="translate(2,-6.979287)">
+      <path
+         transform="matrix(0.14736842,0,0,0.13714286,-12.89474,-12.977019)"
+         d="m 447.14285,298.79074 c 0,96.64983 -72.91363,175 -162.85714,175 -89.94352,0 -162.85715,-78.35017 -162.85715,-175 0,-96.64983 72.91363,-175 162.85715,-175 89.94351,0 162.85714,78.35017 162.85714,175 z"
+         sodipodi:ry="175"
+         sodipodi:rx="162.85715"
+         sodipodi:cy="298.79074"
+         sodipodi:cx="284.28571"
+         id="path2989-4-5"
+         style="fill:#de8787"
+         sodipodi:type="arc"
+         inkscape:export-filename="/home/daro/devel/sidi/trunk/graphics/banner-360-dpi.png"
+         inkscape:export-xdpi="360.24734"
+         inkscape:export-ydpi="360.24734" />
+      <path
+         transform="matrix(0.20034782,0,0,0.20480002,-26.811186,-23.815569)"
+         d="m 311.42859,181.6479 c 0,17.75201 -14.71065,32.14286 -32.85715,32.14286 -18.1465,0 -32.85714,-14.39085 -32.85714,-32.14286 0,-17.75201 14.71064,-32.14285 32.85714,-32.14285 18.1465,0 32.85715,14.39084 32.85715,32.14285 z"
+         sodipodi:ry="32.142857"
+         sodipodi:rx="32.857143"
+         sodipodi:cy="181.6479"
+         sodipodi:cx="278.57144"
+         id="path2987-3-9"
+         style="fill:#ffccaa"
+         sodipodi:type="arc"
+         inkscape:export-filename="/home/daro/devel/sidi/trunk/graphics/banner-360-dpi.png"
+         inkscape:export-xdpi="360.24734"
+         inkscape:export-ydpi="360.24734" />
+      <g
+         transform="matrix(0.13714286,0,0,0.13714286,-9.143674,-49.827116)"
+         id="g3295-4"
+         inkscape:export-filename="/home/daro/devel/sidi/trunk/graphics/banner-360-dpi.png"
+         inkscape:export-xdpi="360.24734"
+         inkscape:export-ydpi="360.24734">
+        <rect
+           style="fill:#ffccaa"
+           id="rect2985-3-4-9"
+           width="71.428574"
+           height="246.58075"
+           x="604.21112"
+           y="379.98517"
+           ry="59.039822"
+           clip-path="url(#clipPath3055-8-1)"
+           transform="matrix(1.344,0,0,0.77952128,-581.9289,232.56787)"
+           rx="34.962708" />
+        <rect
+           style="fill:#ffb380"
+           id="rect2985-3-5-9-0"
+           width="71.428589"
+           height="247.87666"
+           x="605.71429"
+           y="370.91412"
+           ry="62.92741"
+           clip-path="url(#clipPath3055-7-8-6)"
+           transform="matrix(1.344,0,0,-0.77952128,-583.94918,1009.5763)"
+           rx="35.714287" />
+      </g>
+      <rect
+         transform="matrix(0.70710676,-0.70710681,0.70710676,0.70710681,0,0)"
+         ry="0.83446455"
+         y="23.59164"
+         x="10.206351"
+         height="12.759464"
+         width="1.6689291"
+         id="rect3155-2-91"
+         style="fill:#ffb380"
+         inkscape:export-filename="/home/daro/devel/sidi/trunk/graphics/banner-360-dpi.png"
+         inkscape:export-xdpi="360.24734"
+         inkscape:export-ydpi="360.24734" />
+    </g>
+  </g>
+</svg>
