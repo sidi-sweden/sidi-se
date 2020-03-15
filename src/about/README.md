@@ -1,8 +1,11 @@
-# About
+---
+title: About
+---
 
 
 
 # About us
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;Communicating independent, scientific and evidence-based information on drugs and drug therapies, openly and freely
 
@@ -48,6 +51,3 @@ Read SIDI's statutes here
  - Lars-L Gustafsson
  - Ylva Böttiger
  - Marine Andersson
-
-
-

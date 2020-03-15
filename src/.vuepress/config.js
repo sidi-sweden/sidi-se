@@ -4,7 +4,7 @@ module.exports = {
 	title: 'SIDI',
 	dest: './public',
 	themeConfig: {
-		repo: 'https://wwww.github.com',
+		repo: 'https://github.com/urudaro/sidi-se',
 		repoLabel: 'Repo',
 		editLinks: true,
 		editLinkText: 'Found a bug? Help me improve this page!',
@@ -12,7 +12,7 @@ module.exports = {
 			{ text: 'Home', link: '/' },
 			{ text: 'Blog', link: '/blog/' },
 			{ text: 'Archive', link: '/archive/' },
-			{ text: 'RSS Feed', link: '/rss.xml' },
+			{ text: 'Contact', link: '/contact/' },
 			{ text: 'About', link: '/about/' }
 		],
 		logo: '/sidi-64x64.png',
@@ -41,8 +41,8 @@ module.exports = {
 	],
 	head: [
 		['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-icon.png' }],
-		['link', { rel: 'icon', sizes: '32x32', href: '/favicon-32x32.png' }],
-		['link', { rel: 'icon', sizes: '16x16', href: '/favicon-16x16.png' }],
+		['link', { rel: 'icon', sizes: '32x32', href: '/sidi-32x32.png' }],
+		['link', { rel: 'icon', sizes: '16x16', href: '/sidi-16x16.png' }],
 		['link', { rel: 'manifest', href: '/site.webmanifest' }],
 		['link', { rel: 'mask-icon', href: '/safari-pinned-tab.svg', color: '#5bbad5' }],
 		['meta', { name: 'msapplication-TileColor', content: '#da532c' }],

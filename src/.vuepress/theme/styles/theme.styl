@@ -7,6 +7,7 @@
 @require './toc'
 
 html, body
+  background-color #F1F3F5
   padding 0
   margin 0
 
@@ -18,7 +19,8 @@ body
   color $textColor
 
 .page
-  padding-left $sidebarWidth
+  padding-left 10rem
+  padding-top $navbarHeight
 
 .navbar
   position fixed
@@ -27,9 +29,12 @@ body
   left 0
   right 0
   height $navbarHeight
-  background-color #fff
+  background-color #D9E2EC
   box-sizing border-box
   border-bottom 1px solid $borderColor
+
+.navbar .links
+  background-color inherit
 
 .sidebar-mask
   position fixed
@@ -185,6 +190,6 @@ th, td
     .sidebar
       display none
     .page
-      padding-left 0
+      padding-left 10rem
 
 @require './mobile.styl'

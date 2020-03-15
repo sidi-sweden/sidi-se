@@ -1,10 +1,9 @@
 ---
-title: This is My Future Post for 2088
-date: 2088-12-27T02:39:48.644Z
-excerpt: This post won't appear on the blog list till 2088!
+title: SIDI's site is launched
+date: 2011-06-08T02:39:48.644Z
+excerpt: SIDI's site is launched. A first step in SIDI's life.
 type: post
 blog: true
 ---
 
-
-
+As a first step in SIDI's life its website is launched! We hope to develop it as an important tool to communicate our message and  to keep the Foundation in touch with its audience.

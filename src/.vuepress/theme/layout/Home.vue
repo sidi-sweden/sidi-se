@@ -74,6 +74,8 @@ export default {
 @import '../styles/config.styl'
 
 .home
+  background-image: url("/dator-medicines-20.png")
+  background-size: 100% 100%
   padding $navbarHeight 2rem 0
   max-width 960px
   margin 0px auto
@@ -91,7 +93,7 @@ export default {
       max-width 35rem
       font-size 1.6rem
       line-height 1.3
-      color lighten($textColor, 40%)
+      color $textColor
     .action-button
       display inline-block
       font-size 1.2rem
