@@ -10,14 +10,19 @@ module.exports = {
 		editLinkText: 'Found a bug? Help me improve this page!',
 		nav: [
 			{ text: 'Home', link: '/' },
-			{ text: 'Blog', link: '/blog/' },
+			{ text: 'News', link: '/blog/' },
 			{ text: 'Archive', link: '/archive/' },
 			{ text: 'Contact', link: '/contact/' },
-			{ text: 'About', link: '/about/' }
+			{ text: 'About',
+			  ariaLabel: 'Info:',
+			  items: [
+					{text: 'About us', link: '/about/'},
+					{text: 'Statutes', link: '/about/statutes.md'}
+				]}
 		],
 		logo: '/sidi-64x64.png',
 		docsDir: 'src',
-		pageSize: 5,
+		pageSize: 10,
 		startPage: 0
 	},
 	plugins: [

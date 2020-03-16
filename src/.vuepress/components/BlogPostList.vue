@@ -24,7 +24,7 @@ export default {
     computed: {
         filteredList() {
             if (this.pages) {
-                
+
                 return this.pages.filter(item => {
                     const isBlogPost = !!item.frontmatter.blog
                     const isReadyToPublish = new Date(item.frontmatter.date) <= new Date()
@@ -32,23 +32,23 @@ export default {
                     let isCurrentLocale = true;
                     if(this.$site.locales) {
                         const localePath = this.$route.path.split('/')[1] || "";
-                        isCurrentLocale = item.relativePath.startsWith(localePath);   
+                        isCurrentLocale = item.relativePath.startsWith(localePath);
                     }
                     // check if tags contain all of the selected tags
                     const hasTags = !!item.frontmatter.tags && this.selectedTags.every((tag) => item.frontmatter.tags.includes(tag))
 
-                    if (!isBlogPost || !isReadyToPublish || (this.selectedTags.length > 0 && !hasTags) || !isCurrentLocale){ 
+                    if (!isBlogPost || !isReadyToPublish || (this.selectedTags.length > 0 && !hasTags) || !isCurrentLocale){
                         return false
                     }
 
                     return true
-                    
+
                 }).sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date))
             }
         },
 
         totalPages() {
-            
+
             return Math.ceil(this.filteredList.length / this.pageSize)
         },
     },
@@ -84,8 +84,8 @@ export default {
 </script>
 
 <template>
-	<div>  
-        <div 
+	<div>
+        <div
             v-if="selectedTags.length > 0"
             class="filtered-heading"
         >
@@ -103,23 +103,18 @@ export default {
         <ul class="blog-list">
             <li v-for="(item, index) in filteredList"
                 class="blog-list__item">
-                <BlogPostPreview 
+                <BlogPostPreview
                     v-show="index >= currentPage * pageSize && index < (currentPage + 1) * pageSize"
                     :item="item"
                 />
-                <ul v-for="tag in item.frontmatter.tags" class="blog-list__tags">
-                    <li>
-                        <button @click="addTag(tag)">{{ tag }}</button>
-                    </li>
-                </ul>
             </li>
         </ul>
 
         <div class="pagination">
-            <button v-show="currentPage > 0" 
+            <button v-show="currentPage > 0"
                 @click="previousPage"
                 class="button--pagination"
-                type="button" 
+                type="button"
             >
                 Previous
             </button>
@@ -135,6 +130,8 @@ export default {
 </template>
 
 <style scoped>
+
+
 .blog-list {
 	padding: 0;
 	margin: 0;
@@ -145,7 +142,7 @@ export default {
 }
 
 .blog-list__tags {
-    margin-bottom: 15px;
+    margin-bottom: 3px;
 }
 
 .button--pagination {

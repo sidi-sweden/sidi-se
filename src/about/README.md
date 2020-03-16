@@ -7,15 +7,15 @@ title: About
 # About us
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Communicating independent, scientific and evidence-based information on drugs and drug therapies, openly and freely
+Communicating independent, scientific and evidence-based information on drugs and drug therapies, openly and freely
 
-&nbsp;&nbsp;&nbsp;&nbsp;The Foundation SIDI is a non-for-profit organisation. SIDI promotes the creation and free sharing of accurate information on drugs and in pharmacology.
+The Foundation SIDI is a non-for-profit organisation. SIDI promotes the creation and free sharing of accurate information on drugs and in pharmacology.
 
-&nbsp;&nbsp;&nbsp;&nbsp;SIDI promotes open and free sharing of information since we strongly believe that knowledge should be openly and transparently available. These two <br>&nbsp;&nbsp;&nbsp;&nbsp;conditions are necessary to achieve accurate and reliable information.
+SIDI promotes open and free sharing of information since we strongly believe that knowledge should be openly and transparently available. These two conditions are necessary to achieve accurate and reliable information.
 
-&nbsp;&nbsp;&nbsp;&nbsp;It is SIDI's ambition to deliver innovative tools and procedures using information technology to provide high quality drug information for healthcare <br>&nbsp;&nbsp;&nbsp;&nbsp;staff, academic institutions and the public. To achieve that we are going to produce data sets and knowledge databases to be used in descision support and <br>&nbsp;&nbsp;&nbsp;&nbsp;in education systems in the healh care sector. Furthermore we will deliver services analyzing ,exploring, cleaning, extracting, transforming  and <br>&nbsp;&nbsp;&nbsp;&nbsp;interlinking data from well known and authoritative datasets. In addition, we will develop tools to reach these services programmatically,<br>&nbsp;&nbsp;&nbsp;&nbsp;facilitating the integration with systems in the healh care.
+It is SIDI's ambition to deliver innovative tools and procedures using information technology to provide high quality drug information for healthcare staff, academic institutions and the public. To achieve that we are going to produce data sets and knowledge databases to be used in descision support and in education systems in the healh care sector. Furthermore we will deliver services analyzing ,exploring, cleaning, extracting, transforming  and interlinking data from well known and authoritative datasets. In addition, we will develop tools to reach these services programmatically, facilitating the integration with systems in the healh care.
 
-&nbsp;&nbsp;&nbsp;&nbsp;SIDI will support scientific projects in the area of drug informatics.
+SIDI will support scientific projects in the area of drug informatics.
 
 ## Some excerpts from the statutes
 
@@ -29,7 +29,7 @@ title: About
 
 ## Projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;Running projects is costly and resource intensive. Because of that, initially SIDI conducts a small number of projects of its own. SIDI expects from<br>&nbsp;&nbsp;&nbsp;&nbsp; interested groups, individuals and from our members and supporters that they start projects on a voluntary basis. In this case, SIDI is going to support<br> &nbsp;&nbsp;&nbsp;&nbsp;them providing the means to set up a project environment including: wiki-tools, issue management tools, source code management and possibilities for <br>&nbsp;&nbsp;&nbsp;&nbsp;integration with other SIDI project's results.
+Running projects is costly and resource intensive. Because of that, initially SIDI conducts a small number of projects of its own. SIDI expects from interested groups, individuals and from our members and supporters that they start projects on a voluntary basis. In this case, SIDI is going to support them providing the means to set up a project environment including: wiki-tools, issue management tools, source code management and possibilities for integration with other SIDI project's results.
 
 # The statutes
 

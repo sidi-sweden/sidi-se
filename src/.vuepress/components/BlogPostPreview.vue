@@ -14,7 +14,7 @@ export default {
                 year: 'numeric',
                 month: 'long',
                 day: 'numeric'
-            } 
+            }
 
             return dateFormat.toLocaleDateString('en-US', options)
         }
@@ -24,17 +24,34 @@ export default {
 
 <template>
 	<section>
+    <router-link class="button blog-post__button" :to="item.path">
+        <hr/>
         <time>{{ formatPublishDate }}</time>
         <h3 class="blog-post__title">{{ item.frontmatter.title }}</h3>
         <p v-if="item.frontmatter.excerpt">{{ item.frontmatter.excerpt }}</p>
-        <p v-if="item.readingTime">Estimated time: {{ item.readingTime.text }}</p>
-        <router-link class="button blog-post__button" :to="item.path">Read More ></router-link>
-    </section>
+    </router-link>
+  </section>
 </template>
 
 <style scoped>
+hr {
+       display: block;
+       position: relative;
+       padding: 0;
+       margin: 8px auto;
+       height: 0;
+       width: 100%;
+       max-height: 0;
+       font-size: 1px;
+       line-height: 0;
+       clear: both;
+       border: none;
+       border-top: 1px solid #aaaaaa;
+       border-bottom: 1px solid #ffffff;
+    }
+
 .blog-post__button {
-	margin-bottom: 1.5rem;
+	margin-bottom: 0.5rem;
 	display: inline-block;
 }
 
@@ -43,9 +60,7 @@ export default {
 }
 
 .button {
-	border: 1px solid #32c8cf;
-	border-radius: 4px;
-	color: #32c8cf;
+	color: black;
 	font-size: 0.8rem;
 	padding: 0.5rem 0.75rem;
 	text-transform: uppercase;
