@@ -33,21 +33,27 @@
         v-for="(feature, index) in data.features"
         :key="index"
       >
-        <h2>{{ feature.title }}</h2>
-        <p>{{ feature.details }}</p>
+        <div class="feature-icon" v-if="feature.icon" >
+          <img :src="feature.icon" alt="feature.title">
+          <p>{{ feature.details }}</p>
+        </div>
+        <div v-else >
+          <h2>{{ feature.title }}</h2>
+          <p>{{ feature.details }}</p>
+        </div>
       </div>
     </div>
 
     <Content custom/>
 
-    <div
-      class="footer"
+    <div      class="footer"
       v-if="data.footer"
     >
       {{ data.footer }}
     </div>
   </div>
 </template>
+
 
 <script>
 import NavLink from '../components/NavLink.vue'
@@ -127,12 +133,14 @@ export default {
       color lighten($textColor, 10%)
     p
       color lighten($textColor, 25%)
+  .feature-icon
+    background-repeat no-repeat
+    background-size 100% 100%
   .footer
     padding 2.5rem
     border-top 1px solid $borderColor
     text-align center
     color lighten($textColor, 25%)
-
 @media (max-width: $MQMobile)
   .home
     .features
