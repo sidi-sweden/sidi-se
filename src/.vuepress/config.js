@@ -11,7 +11,14 @@ module.exports = {
 		nav: [
 			{ text: 'Home', link: '/' },
 			{ text: 'News', link: '/blog/' },
-			{ text: 'Archive', link: '/archive/' },
+			// { text: 'Archive', link: '/archive/' },
+			{ text: 'Projects',
+			  ariaLabel: 'Info:',
+			  items: [
+					{text: 'Drugle', link: '/proj/drugle.md'},
+					{text: 'Drugline', link: '/proj/drugline.md'},
+					{text: 'BIKT', link: '/proj/bikt.md'}
+				]},
 			{ text: 'Contact', link: '/contact/' },
 			{ text: 'About',
 			  ariaLabel: 'Info:',

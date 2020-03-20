@@ -34,7 +34,14 @@
         :key="index"
       >
         <div class="feature-icon" v-if="feature.icon" >
-          <img :src="feature.icon" alt="feature.title">
+          <div class="feature-shortcut" v-if="feature.shortcut">
+            <a  :href="feature.shortcut">
+              <img :src="feature.icon" alt="feature.title">
+            </a>
+          </div>
+          <div v-else>
+            <img :src="feature.icon" alt="feature.title">
+          </div>
           <p>{{ feature.details }}</p>
         </div>
         <div v-else >
