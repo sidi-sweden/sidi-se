@@ -1,5 +1,5 @@
 ---
-title: SIDI Workshop
+title: SIDI Workshop 1 oktober 2021
 date: 2021-10-01 13:07:48
 excerpt: How does knowledge support about health and medicine become a public good?
   EXPERT WORKSHOP IN STOCKHOLM JANUARY 24-25, 2019.
@@ -9,9 +9,6 @@ tags:
     - Press
     - opinion
 ---
-
-
-# ![Logga](/sidi-32x32.png)  SIDI Workshop 1 oktober 2021
 
 ## Hur blir kunskapsstöd om hälsa och medicin en allmän nyttighet?
 
