@@ -11,7 +11,7 @@ tags:
 ---
 
 
-### ![Logga](https:/sidi.se/sidi-64x64.png) SIDI Workshop 1 oktober 2021
+### ![Logga](/sidi-64x64.png) SIDI Workshop 1 oktober 2021
 
 ## Hur blir kunskapsstöd om hälsa och medicin en allmän nyttighet?
 
