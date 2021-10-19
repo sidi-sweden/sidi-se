@@ -23,7 +23,7 @@ Idéer om några fortsatta initiativ lanserades:
 - skapa opinion för att kunskapsstöd inom medicin och hälsa ska bli en allmän nyttighet.
 - utveckla en handbok med riktlinjer för utveckling, underhåll och utvärdering av kunskapsstöd inom hälsa och medicin.   
 
-Program och presentationer är samlade på [SIDIs](https://sidi.se] hemsida under [bloggen](https://www.sidi.se/blog/2021-workshop.html) eller direkt på adressen <https://tinyurl.com/tuzbyb7a> och kan fritt laddas ner och spridas. För alla presentationer finns en PDF-version för bättre kompatibilitet med den utrusning du använder. Ett utförligt referat bli klart under hösten 2021.
+Program och presentationer är samlade på [SIDIs](https://sidi.se) hemsida under [bloggen](https://www.sidi.se/blog/2021-workshop.html) eller direkt på adressen <https://tinyurl.com/tuzbyb7a> och kan fritt laddas ner och spridas. För alla presentationer finns en PDF-version för bättre kompatibilitet med den utrusning du använder. Ett utförligt referat bli klart under hösten 2021.
 
 På organisationskommitténs vägnar:
 
