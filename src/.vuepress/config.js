@@ -6,7 +6,7 @@ module.exports = {
 	themeConfig: {
 		repo: 'https://github.com/urudaro/sidi-se',
 		repoLabel: 'Repo',
-		editLinks: true,
+		editLinks: false,
 		editLinkText: 'Found a bug? Help me improve this page!',
 		nav: [
 			{ text: 'Home', link: '/' },
