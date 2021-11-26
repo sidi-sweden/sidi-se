@@ -11,7 +11,7 @@ tags:
 ---
 
 # Kunskapsstöd om hälsa och medicin, en allmän nyttighet!
-[Ladda ner som PDF](https://tinyurl.com/tuzbyb7a/Referat SIDI work…töd 1 okt 2021.pdf)
+[Ladda ner som PDF](https://www.dropbox.com/s/d6ztsjhs10j682l/Referat%20SIDI%20workshop%20kunskapsst%C3%B6d%201%20okt%202021.pdf?dl=0)
 ## Referat
 
 Hälso- och sjukvårdspersonal samt patienter behöver på ett snabbt och enkelt sätt ha tillgång till
