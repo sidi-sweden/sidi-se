@@ -4,8 +4,8 @@ module.exports = {
 	title: 'SIDI',
 	dest: './public',
 	themeConfig: {
-		repo: 'https://github.com/urudaro/sidi-se',
-		repoLabel: 'Repo',
+		// repo: 'https://github.com/urudaro/sidi-se',
+		// repoLabel: 'Repo',
 		editLinks: false,
 		editLinkText: 'Found a bug? Help me improve this page!',
 		nav: [
