@@ -57,9 +57,7 @@ Tofighi från Funktionsrätt Sverige (Sveriges samverkande patientföreningar). 
 budskap var att alla patienter har olika behov som inte kan förväntas uppfyllas på samma sätt. Vidare
 har vissa patienter av olika skäl svårt att föra sin talan och dessa bör även tas hänsyn till när system
 ska byggas och testas. Det är viktigt att all information är tydlig med bildtext till samtliga bilder och
-att visuell information behöver syntolkas. Något som försämrat patienternas möjlighet att få tillgång
-
-
+att visuell information behöver syntolkas. Något som försämrat patienternas möjlighet att få tillgång 
 till information är att sjukhusbiblioteken på många ställen lagts ned. Dessa har tidigare varit till stor
 hjälp för patienterna. Under en gemensam paneldiskussion framkom att behovet av samarbete
 mellan akademi, sjukvård, datavetare och patienter är av högsta vikt för att vi ska få till bra lösningar.
