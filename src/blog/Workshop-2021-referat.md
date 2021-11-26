@@ -10,10 +10,8 @@ tags:
     - opinion
 ---
 
-# SIDI:s workshop den 1 oktober:
-
 # Kunskapsstöd om hälsa och medicin, en allmän nyttighet!
-
+[Ladda ner som PDF](https://tinyurl.com/tuzbyb7a/Referat SIDI work…töd 1 okt 2021.pdf)
 ## Referat
 
 Hälso- och sjukvårdspersonal samt patienter behöver på ett snabbt och enkelt sätt ha tillgång till
