@@ -148,7 +148,7 @@ ett halvår för att utröna hur frågorna kring kunskapsstöd framskridit
 En handbok kring utformning, utveckling, medicinsk och teknisk förvaltning av kunskapsstöd ska
 skapas. Kontaktperson är Daniel Rodriguez (daro@seibostudios.se).
 
-Presentationerna vid vår workshop nås via den direkta länken https://tinyurl.com/tuzbyb7a eller
+Presentationerna vid vår workshop nås via den direkta länken [https://tinyurl.com/tuzbyb7a](https://tinyurl.com/tuzbyb7a) eller
 
 SIDIs hemsida [http://www.sidi.se](http://www.sidi.se)
 
