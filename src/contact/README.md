@@ -13,22 +13,18 @@ title: Contact
 **Board of govenors**
 
 * Paul Cohen (Chairman of the board), <paul.cohen [at] seibostudios.se>
-* Ylva Böttiger (Board member), <ylva.bottiger [at] liu.se>
+* Ylva Böttiger (Board member, and Medically responsible for BIKT), <ylva.bottiger [at] liu.se>
 * Daniel Rodriguez (Board member and CTO), <daro [at] seibostudios.se>
 * Marine Andersson (Board member), <marine.andersson [at] ki.se>
 * Anton Mothagi (Board member),
-* Elisabeth Wallenius (Board member),
-* Lars-L Gustafsson (Medically responsible for BIKT) <lars-l.gustafsson [at] ki.se>
 
 ## Correspondence address:
 
-SIDI
-
-c/o Avd för Klinisk Farmakologi C1:68
-
-Karolinska Universitetssjukhuset
-
-141 86 Stockholm
+STIFTELSEN SWEDISH INSTITUTE FOR
+DRUG INFORMATICS (SIDI)
+c/o DANIEL RODRIGUEZ
+MAGNUSVÄGEN 4 B LGH 1183
+177 31 JÄRFÄLLA
 
 ## Accounts
 
